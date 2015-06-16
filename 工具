@@ -1,0 +1,17 @@
+#Javascript 开发工具配置
+
+sublime text 2/3
+
+各种snippets
+
+jshint npm install -g jshint
+
+theme:配置主题
+
+goto anything特性
+
+添加新文件advanceNewFile
+
+命令模式Package Control Install
+
+如果采用node编程，应该考虑基于注解的POST/Get等验证，httprequest
